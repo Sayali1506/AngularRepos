@@ -1,0 +1,15 @@
+body {
+  background-color: peachpuff;
+}
+h2 {
+  color: brown;
+  padding: 30px;
+  text-decoration: underline;
+  font-style: italic;
+}
+app-success-alert {
+  color: darkblue;
+  padding: 30px;
+  word-spacing: 2px;
+  line-height: 2px;
+}
